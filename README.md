@@ -26,4 +26,4 @@ project/
 ├── index.html           # Main page displaying products
 ├── item.html            # Product details page
 ├── styles.css           # Stylesheet for styling the project
-└── assets/              # Folder containing product images
+└── resources/           # Folder containing product images
